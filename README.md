@@ -43,7 +43,7 @@ f1_podium_prediction/
 ## Dataset
 
 - **Name:** Formula 1 Race Results, 2000–2025
-- **Source:** Cleaned subset of the public Ergast / Kaggle F1 dataset — see [Kaggle: Formula 1 World Championship (1950–2024)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+- **Source:** Cleaned subset of the public Ergast / Kaggle F1 dataset — see [Kaggle: Formula 1 Races Data from (2000-2025)](https://www.kaggle.com/datasets/syedzubairahmed0022/formula-1-races-data-from-2000-2025)
 - **Rows:** 10,398 driver-race entries
 - **Columns:** 20 (8 numeric, 12 categorical/text)
 - **Target:** `Podium` ∈ {Yes, No} — binary, ~14.3% positive (imbalanced)
