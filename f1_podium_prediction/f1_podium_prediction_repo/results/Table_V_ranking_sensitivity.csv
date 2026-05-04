@@ -1,0 +1,6 @@
+Model,Rank by Accuracy,Rank by Precision,Rank by Recall,Rank by F1,Rank by AUC
+Logistic Regression,4,4,2,4,4
+Random Forest,3,3,4,2,1
+Gradient Boosting,1,1,5,3,2
+SVM (RBF),5,5,1,5,5
+XGBoost,2,2,3,1,3

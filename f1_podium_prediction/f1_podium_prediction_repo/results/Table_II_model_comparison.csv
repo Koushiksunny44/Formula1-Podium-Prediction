@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1,AUC
+Logistic Regression,0.833,0.47,0.887,0.615,0.923
+Random Forest,0.87,0.545,0.806,0.651,0.93
+Gradient Boosting,0.893,0.665,0.575,0.617,0.928
+SVM (RBF),0.823,0.455,0.903,0.605,0.911
+XGBoost,0.872,0.549,0.812,0.655,0.927

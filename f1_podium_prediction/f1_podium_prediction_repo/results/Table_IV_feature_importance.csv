@@ -1,0 +1,11 @@
+Rank,Feature,Importance,Direction,Domain Interpretation
+1,Grid,0.1583,Positive,Lower grid number (front of grid) increases podium odds
+2,DriverPodiumRate_Last5,0.0279,Positive,Recent driver form on podium
+3,DriverAvgGrid_Last5,0.0219,Positive,Driver's recent qualifying form
+4,ConstructorName_Benetton,0.0181,Positive,Specific team identity (top teams dominate)
+5,ConstructorName_BMW Sauber,0.0175,Positive,Specific team identity (top teams dominate)
+6,ConstructorPodiumRate_Last5,0.0168,Positive,Team's recent podium track record
+7,ConstructorName_Honda,0.0166,Positive,Specific team identity (top teams dominate)
+8,DriverNationality_British,0.0159,Positive,Geographic/regional effect
+9,ConstructorName_Force India,0.0154,Positive,Specific team identity (top teams dominate)
+10,country_Canada,0.0153,Positive,Geographic/regional effect

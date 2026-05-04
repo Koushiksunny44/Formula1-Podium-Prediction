@@ -1,0 +1,5 @@
+Preprocessing Strategy,Accuracy,Precision,Recall,F1,AUC
+Raw data (numeric only),0.868,0.541,0.812,0.649,0.925
+Imputation,0.868,0.541,0.812,0.649,0.925
+Scaling + Encoding,0.872,0.549,0.812,0.655,0.927
+Full pipeline,0.872,0.549,0.812,0.655,0.927

@@ -1,0 +1,17 @@
+{
+  "best_model": "XGBoost",
+  "test_metrics": {
+    "Accuracy": 0.8715670436187399,
+    "Precision": 0.5490909090909091,
+    "Recall": 0.8118279569892473,
+    "F1": 0.6550976138828634,
+    "AUC": 0.9269696226337955
+  },
+  "n_train": 9160,
+  "n_test": 1238,
+  "train_seasons": "2000-2022",
+  "test_seasons": "2023-2025",
+  "n_features": 13,
+  "podium_rate_train": 0.1418122270742358,
+  "podium_rate_test": 0.15024232633279483
+}

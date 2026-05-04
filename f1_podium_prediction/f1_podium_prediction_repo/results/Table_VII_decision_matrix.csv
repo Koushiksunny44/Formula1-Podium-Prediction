@@ -1,0 +1,7 @@
+Model,Predictive Performance (F1),Predictive Performance (AUC),Interpretability,Computational Cost,Deployment Suitability
+Logistic Regression,Medium,Very High,High,Low,Very High
+Random Forest,Medium,Very High,Medium,Medium,High
+Gradient Boosting,Medium,Very High,Medium-Low,High,Medium
+SVM (RBF),Medium,Very High,Low,High,Low
+XGBoost,Medium,Very High,Medium-Low,High,Medium
+★ Selected Model,Medium,Very High,Medium-Low,High,Medium
